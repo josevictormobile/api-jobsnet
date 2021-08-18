@@ -1,0 +1,2 @@
+dotnet aspnet-codegenerator controller -name CandidatoController -async -api -m Candidato -dc DbContexto -outDir
+Controllers
